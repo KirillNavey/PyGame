@@ -1,4 +1,4 @@
 # PyGame
 Modules: Pygame
 
-Extract env.xip into root folder and run RUN.exe
+Extract env.zip into root folder and run RUN.exe
